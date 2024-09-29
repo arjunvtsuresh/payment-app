@@ -1,0 +1,11 @@
+.horizontal-list{
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    white-space: nowrap; /* Prevent line breaks */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+}
